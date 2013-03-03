@@ -5,7 +5,6 @@ PROJECT(lua)
 
 # ================================================================
 
-SET(CMAKE_DEBUG_POSTFIX "d")
 set(CMAKE_C_FLAGS "-g -Wall ${CMAKE_C_FLAGS}")
 set(CMAKE_CXX_FLAGS "-g -Wall ${CMAKE_CXX_FLAGS}")
 
